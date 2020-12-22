@@ -1,0 +1,5 @@
+git log=historial
+git status= ve los archivos nuevos en espera
+git add .= añadir los nuevos cambios
+git commit -m "titulo"= hacer el commit
+git push= envia todos los commit hacia github
